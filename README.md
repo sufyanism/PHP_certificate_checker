@@ -1,5 +1,5 @@
 # Online Certificate Checker Using PHP
-We will explain how to create a secure and user-friendly certificate checker using PHP and MySQL. We will cover everything from creating HTML documents to managing text submissions with PHP to securely storing
+We will explain how to create user-friendly certificate checker using PHP and MySQL. We will cover everything from creating HTML documents to managing text submissions with PHP to securely storing
 user information in a MySQL database.
 
 </br>
